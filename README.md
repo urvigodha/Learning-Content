@@ -4,6 +4,7 @@ This repository contains the resources that are discussed during the weekly meet
 
 ## Important Links
 - [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
+- [Some of the great resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
 - [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
@@ -17,6 +18,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
+ 
 # Phase 2 - 2019
 
 
@@ -34,9 +36,10 @@ This repository contains the resources that are discussed during the weekly meet
   | 9     | 7th April 2019   |ML Coursera Week 10 and 11                         |14th April 2019  |
   | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
   | 11    | 15th April 2019  |Kaggle competition                                 |24th April 2019  |
-  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
+  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |                 |
   
 ## Members
+
 
 
 - [Girija Prasanna](https://github.com/Demigo0000)
@@ -77,13 +80,22 @@ This repository contains the resources that are discussed during the weekly meet
 - [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+- [Joseph spourgeon](https://github.com/Spourgeon2000)
 - [HUMAM KHAN](https://github.com/humamkhan2k)
 - [Naresh Bharasagar](https://github.com/bharasagarn)
 - [vikyath](https://github.com/vikyath664)
 - [YASHWANTH M](https://github.com/Yash0330)
 - [Jeet Patel](https://github.com/Jeet-Patel)
-
-
+- [Kartikay Goel](https://github.com/krtky123)
+- [sanskar7447](https://github.com/sanskar7447)
+- [Nishu Ranjan](https://github.com/nishuranjan95)
+- [Aarya Shrivastava](https://github.com/aaryapavan)
+- [Shalin Jain](https://github.com/ShalinJain1603)
+- [Kartikaeya Kumar](https://github.com/Kartikaeya)
+- [Smita Saxena](https://github.com/smitasaxenaa)
+- [Sanskar Kumar](https://github.com/sanskar7447)
+- [Anand](https://github.com/anand-trehan)
+- [Rahul D](https://github.com/chindimaga)
 
  ## Leader-Board
  
@@ -98,11 +110,33 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | [Shreyas S.K](https://github.com/shreyassks)   |180          
   | 8     | [Rahat Reza](https://github.com/Rahatrezaaa)  |130             
   | 9     | [Suyash Baghel](https://github.com/suyashbaghel)  |130              
-  | 10     | [Girija Prasanna](https://github.com/Demigo0000) |80             
+  | 10    | [Girija Prasanna](https://github.com/Demigo0000) |80             
   | 11    | [Touquir Ahmad](https://github.com/Touquir)   |30               
   | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
 
+
+ ## Leader-Board 2 (Summer)
+ 
+  |Rank   |      Name        |Points(After week1)                                          
+  |-------|------------------|----------------------------------
+  | 1     | [Yash](https://github.com/Yash0330)    |80
+  | 2     | [Ahemad Khan](https://github.com/ahemadkhan)  |80
+  | 3     | [Kartikaeya Kumar](https://github.com/Kartikaeya)    |30   
+  | 4     | [Rahul D](https://github.com/chindimaga)   |30               
+  | 5     | [Sanskar Kumar](https://github.com/sanskar7447)    |30 
+  | 6     | [AMIT RAI](https://github.com/amitrai12018) |30
+  | 7     | [Shubham Singh](https://github.com/shubhamdvl)    |30             
+  | 8     | [Sai Dhanush](https://github.com/dhanush1708)   |30          
+  | 9     | [Eshwar Nukala](https://github.com/eshwar28)  |30             
+  | 10    | [Parth](https://github.com/parthatom)  |30              
+  | 11    | [Tarunasaireddy](https://github.com/Tarunasaireddy) |30             
+  | 12    | [Manoj](https://github.com/manojpaidimarri21)   |30               
+  | 13    | [Abhishek](https://github.com/abhishekk2)  |30                
+  | 14    | [Naresh Bharasagar](https://github.com/bharasagarn)  |30  
+  | 15    | [vikyath](https://github.com/vikyath664)  |30
+  | 16    | [Anirudh](https://github.com/Anirudh-1149)  |15
+  
 
 # Phase 1 - 2018
 
